@@ -1,9 +1,19 @@
 import "./App.css";
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Hello</header>
+      <header className="App-header">What would you like to search for?</header>
+      <main>
+        <Dictionary />
+      </main>
+      <footer>
+        Coded by Hannah Nixon, open-sourced on{" "}
+        <a href="https://github.com/hannahmnixon/dictionary-project">GitHub</a>
+        and hosted on{" "}
+        <a href="https://romantic-hodgkin-ba6d8f.netlify.app">Netlify</a>.
+      </footer>
     </div>
   );
 }

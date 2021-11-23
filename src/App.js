@@ -10,7 +10,7 @@ function App() {
       </main>
       <footer>
         Coded by Hannah Nixon, open-sourced on{" "}
-        <a href="https://github.com/hannahmnixon/dictionary-project">GitHub</a>
+        <a href="https://github.com/hannahmnixon/dictionary-project">GitHub</a>{" "}
         and hosted on{" "}
         <a href="https://romantic-hodgkin-ba6d8f.netlify.app">Netlify</a>.
       </footer>

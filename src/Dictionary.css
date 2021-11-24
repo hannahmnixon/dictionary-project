@@ -8,3 +8,16 @@
 .SearchForm {
   text-align: center;
 }
+
+.Dictionary input {
+  width: 20%;
+  padding: 10px;
+  border: 1px solid;
+  color: #434343;
+}
+
+.hint {
+  text-align: center;
+  margin-top: 3px;
+  font-size: 12px;
+}

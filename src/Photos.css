@@ -1,0 +1,8 @@
+.Photos img {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+a:hover {
+  cursor: initial;
+}

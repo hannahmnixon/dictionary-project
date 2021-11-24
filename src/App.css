@@ -4,18 +4,22 @@ body {
   background: rgb(248, 248, 248);
 }
 
+footer {
+  font-family: "Montserrat", sans-serif;
+  padding: 25px;
+  text-align: center;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-header {
   color: #434343;
   font-size: 40px;
   font-family: "Montserrat Subrayada", sans-serif;
   text-align: center;
   margin-top: 30px;
-}
-
-footer {
-  font-family: "Montserrat", sans-serif;
-  padding: 80px;
-  text-align: center;
 }
 
 .FooterLink:link,

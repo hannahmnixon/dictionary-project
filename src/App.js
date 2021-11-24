@@ -13,6 +13,8 @@ function App() {
         <a
           href="https://github.com/hannahmnixon/dictionary-project"
           className="FooterLink"
+          target="_blank"
+          rel="noreferrer"
         >
           GitHub
         </a>{" "}
@@ -20,6 +22,8 @@ function App() {
         <a
           href="https://romantic-hodgkin-ba6d8f.netlify.app"
           className="FooterLink"
+          target="_blank"
+          rel="noreferrer"
         >
           Netlify
         </a>

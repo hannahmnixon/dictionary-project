@@ -3,6 +3,7 @@
   margin-bottom: 20px;
 }
 
-a:hover {
-  cursor: initial;
+a:link,
+a:visited {
+  text-decoration: none;
 }

@@ -17,8 +17,8 @@ function App() {
           rel="noreferrer"
         >
           GitHub
-        </a>{" "}
-        and hosted on{" "}
+        </a>
+        , hosted on{" "}
         <a
           href="https://romantic-hodgkin-ba6d8f.netlify.app"
           className="FooterLink"
